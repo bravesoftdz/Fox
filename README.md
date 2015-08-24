@@ -1,5 +1,5 @@
 # Fox
-Fox hunt game for DOS in mid 90s...
+Fox hunt game for DOS I've made in mid 90s...
 
 The goal is to find all the foxes in the field for as little steps as possible.
 Each number represents amount of foxes seen in column, row and diagonals.
